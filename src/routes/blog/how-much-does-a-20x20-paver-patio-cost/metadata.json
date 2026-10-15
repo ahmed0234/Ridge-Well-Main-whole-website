@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-much-does-a-20x20-paver-patio-cost/",
+  "title": "How Much Does a 20x20 Paver Patio Cost? | 2026 Price Guide",
+  "description": "Find out the typical cost to build a 20×20 paver patio and what you should plan for in materials, labor, and additional features.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-much-does-a-20x20-paver-patio-cost/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-much-does-a-20x20-paver-patio-cost/",
+        "name": "How Much Does a 20x20 Paver Patio Cost? | 2026 Price Guide",
+        "description": "Find out the typical cost to build a 20×20 paver patio and what you should plan for in materials, labor, and additional features."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How Much Does A 20×20 Paver Patio Cost",
+        "datePublished": "2026-04-06T13:25:55",
+        "dateModified": "2026-04-06T13:25:57",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-much-does-a-20x20-paver-patio-cost/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How Much Does a 20x20 Paver Patio Cost?",
+            "item": "https://ridgewellcolorado.com/blog/how-much-does-a-20x20-paver-patio-cost/"
+          }
+        ]
+      }
+    ]
+  }
+}

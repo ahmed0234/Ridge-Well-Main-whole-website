@@ -1,0 +1,75 @@
+{
+  "path": "/blog/what-is-the-standard-width-of-a-paver-walkway/",
+  "title": "How Wide Should a Paver Walkway Be",
+  "description": "A quick guide to standard paver walkway widths for entry paths, side yards, and garden paths, plus cost considerations.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/what-is-the-standard-width-of-a-paver-walkway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/what-is-the-standard-width-of-a-paver-walkway/",
+        "name": "How Wide Should a Paver Walkway Be",
+        "description": "A quick guide to standard paver walkway widths for entry paths, side yards, and garden paths, plus cost considerations."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "What Is the Standard Width of a Paver Walkway?",
+        "datePublished": "2026-07-29T00:00:00",
+        "dateModified": "2026-07-24T05:23:38",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/what-is-the-standard-width-of-a-paver-walkway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How Wide Should a Paver Walkway Be",
+            "item": "https://ridgewellcolorado.com/blog/what-is-the-standard-width-of-a-paver-walkway/"
+          }
+        ]
+      }
+    ]
+  }
+}

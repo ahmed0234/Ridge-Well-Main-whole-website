@@ -1,0 +1,75 @@
+{
+  "path": "/blog/do-it-yourself-landscaping-projects/",
+  "title": "Top DIY Landscaping Projects to Transform Your Yard",
+  "description": "Explore top do it yourself landscaping projects to beautify your yard. Get inspired or let Ridgewell Colorado's Denver experts bring your outdoor vision to life",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/do-it-yourself-landscaping-projects/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/do-it-yourself-landscaping-projects/",
+        "name": "Top DIY Landscaping Projects to Transform Your Yard",
+        "description": "Explore top do it yourself landscaping projects to beautify your yard. Get inspired or let Ridgewell Colorado's Denver experts bring your outdoor vision to life"
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Do It Yourself Landscaping Projects",
+        "datePublished": "2026-05-08T11:49:48",
+        "dateModified": "2026-05-07T12:18:11",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/do-it-yourself-landscaping-projects/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Top DIY Landscaping Projects to Transform Your Yard",
+            "item": "https://ridgewellcolorado.com/blog/do-it-yourself-landscaping-projects/"
+          }
+        ]
+      }
+    ]
+  }
+}

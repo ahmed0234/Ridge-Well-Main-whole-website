@@ -1,0 +1,75 @@
+{
+  "path": "/blog/adding-a-turnaround-to-your-driveway/",
+  "title": "Driveway Turnaround Ideas, Sizes, and Costs",
+  "description": "Compare turnaround designs, see the space each one needs, and learn how a paver turnaround is built and priced.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/adding-a-turnaround-to-your-driveway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/adding-a-turnaround-to-your-driveway/",
+        "name": "Driveway Turnaround Ideas, Sizes, and Costs",
+        "description": "Compare turnaround designs, see the space each one needs, and learn how a paver turnaround is built and priced."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Adding a Turnaround to Your Driveway",
+        "datePublished": "2026-10-02T16:52:02",
+        "dateModified": "2026-10-11T16:52:59",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/adding-a-turnaround-to-your-driveway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Driveway Turnaround Ideas, Sizes, and Costs",
+            "item": "https://ridgewellcolorado.com/blog/adding-a-turnaround-to-your-driveway/"
+          }
+        ]
+      }
+    ]
+  }
+}

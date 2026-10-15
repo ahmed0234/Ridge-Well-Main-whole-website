@@ -1,0 +1,75 @@
+{
+  "path": "/blog/patio-and-driveway-from-molding/",
+  "title": "How to Stop Your Patio or Driveway From Growing Mold",
+  "description": "Learn how to prevent and remove algae, moss, and mildew on your patio or driveway, including tips for shaded areas.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/patio-and-driveway-from-molding/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/patio-and-driveway-from-molding/",
+        "name": "How to Stop Your Patio or Driveway From Growing Mold",
+        "description": "Learn how to prevent and remove algae, moss, and mildew on your patio or driveway, including tips for shaded areas."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How to Keep Your Patio and Driveway From Molding",
+        "datePublished": "2026-09-05T07:52:17",
+        "dateModified": "2026-09-03T09:05:17",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/patio-and-driveway-from-molding/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How to Stop Your Patio or Driveway From Growing Mold",
+            "item": "https://ridgewellcolorado.com/blog/patio-and-driveway-from-molding/"
+          }
+        ]
+      }
+    ]
+  }
+}

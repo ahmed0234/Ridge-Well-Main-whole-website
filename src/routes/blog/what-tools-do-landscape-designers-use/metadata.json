@@ -1,0 +1,75 @@
+{
+  "path": "/blog/what-tools-do-landscape-designers-use/",
+  "title": "What Tools Do Landscape Designers Use | Ridgewell Colorado",
+  "description": "Landscape designers rely on a wide range of tools to plan, visualize, and execute beautiful outdoor spaces that are both functional and sustainable.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/what-tools-do-landscape-designers-use/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/what-tools-do-landscape-designers-use/",
+        "name": "What Tools Do Landscape Designers Use | Ridgewell Colorado",
+        "description": "Landscape designers rely on a wide range of tools to plan, visualize, and execute beautiful outdoor spaces that are both functional and sustainable."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "What Tools Do Landscape Designers Use",
+        "datePublished": "2026-02-11T15:45:38",
+        "dateModified": "2026-02-11T15:45:40",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/what-tools-do-landscape-designers-use/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "What Tools Do Landscape Designers Use",
+            "item": "https://ridgewellcolorado.com/blog/what-tools-do-landscape-designers-use/"
+          }
+        ]
+      }
+    ]
+  }
+}

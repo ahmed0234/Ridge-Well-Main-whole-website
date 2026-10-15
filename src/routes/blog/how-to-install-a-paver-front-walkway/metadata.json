@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-to-install-a-paver-front-walkway/",
+  "title": "Designing and Building a Paver Front Walkway",
+  "description": "Learn how to design a front walkway that suits your home, plus the full step by step installation process.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-to-install-a-paver-front-walkway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-to-install-a-paver-front-walkway/",
+        "name": "Designing and Building a Paver Front Walkway",
+        "description": "Learn how to design a front walkway that suits your home, plus the full step by step installation process."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How to Install a Paver Front Walkway",
+        "datePublished": "2026-08-10T06:27:25",
+        "dateModified": "2026-08-08T06:42:22",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-to-install-a-paver-front-walkway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Designing and Building a Paver Front Walkway",
+            "item": "https://ridgewellcolorado.com/blog/how-to-install-a-paver-front-walkway/"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-to-get-a-landscaping-license/",
+  "title": "How To Get A Landscaping License Step by Step Guide",
+  "description": "A clear breakdown of landscaping license requirements, steps, costs, and skills needed to start and grow a professional landscaping business.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-to-get-a-landscaping-license/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-to-get-a-landscaping-license/",
+        "name": "How To Get A Landscaping License Step by Step Guide",
+        "description": "A clear breakdown of landscaping license requirements, steps, costs, and skills needed to start and grow a professional landscaping business."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How To Get A Landscaping License",
+        "datePublished": "2026-05-18T12:25:20",
+        "dateModified": "2026-05-25T13:59:23",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-to-get-a-landscaping-license/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How To Get A Landscaping License Step by Step Guide",
+            "item": "https://ridgewellcolorado.com/blog/how-to-get-a-landscaping-license/"
+          }
+        ]
+      }
+    ]
+  }
+}

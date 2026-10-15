@@ -1,0 +1,75 @@
+{
+  "path": "/blog/can-you-use-patio-stones-for-a-driveway/",
+  "title": "Can You Use Patio Stones for a Driveway",
+  "description": "Patio stones can crack under vehicle weight without the right setup. A Colorado hardscape expert explains what actually makes a driveway last.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/can-you-use-patio-stones-for-a-driveway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/can-you-use-patio-stones-for-a-driveway/",
+        "name": "Can You Use Patio Stones for a Driveway",
+        "description": "Patio stones can crack under vehicle weight without the right setup. A Colorado hardscape expert explains what actually makes a driveway last."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Can You Use Patio Stones for a Driveway",
+        "datePublished": "2026-07-19T04:57:43",
+        "dateModified": "2026-07-19T05:16:23",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/can-you-use-patio-stones-for-a-driveway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Can You Use Patio Stones for a Driveway",
+            "item": "https://ridgewellcolorado.com/blog/can-you-use-patio-stones-for-a-driveway/"
+          }
+        ]
+      }
+    ]
+  }
+}

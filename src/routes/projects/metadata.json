@@ -1,0 +1,65 @@
+{
+  "path": "/projects/",
+  "title": "Outdoor Living & Hardscape Inspiration | Ridgewell Colorado",
+  "description": "Explore patios, landscapes, kitchens, retaining walls, fire features and pergolas from Ridgewell’s website.",
+  "ogType": "website",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/projects/#webpage",
+        "url": "https://ridgewellcolorado.com/projects/",
+        "name": "Outdoor Living & Hardscape Inspiration | Ridgewell Colorado",
+        "description": "Explore patios, landscapes, kitchens, retaining walls, fire features and pergolas from Ridgewell’s website."
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Outdoor Living & Hardscape Inspiration",
+            "item": "https://ridgewellcolorado.com/projects/"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-to-keep-mulch-from-washing-onto-a-paver-walkway/",
+  "title": "Stop Mulch From Spilling Onto Your Paver Walkway",
+  "description": "Learn which edging solutions actually stop mulch migration, plus how to fix an already messy paver walkway.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-to-keep-mulch-from-washing-onto-a-paver-walkway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-to-keep-mulch-from-washing-onto-a-paver-walkway/",
+        "name": "Stop Mulch From Spilling Onto Your Paver Walkway",
+        "description": "Learn which edging solutions actually stop mulch migration, plus how to fix an already messy paver walkway."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How to Keep Mulch From Washing Onto a Paver Walkway",
+        "datePublished": "2026-08-27T06:20:51",
+        "dateModified": "2026-08-26T06:30:40",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-to-keep-mulch-from-washing-onto-a-paver-walkway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Stop Mulch From Spilling Onto Your Paver Walkway",
+            "item": "https://ridgewellcolorado.com/blog/how-to-keep-mulch-from-washing-onto-a-paver-walkway/"
+          }
+        ]
+      }
+    ]
+  }
+}

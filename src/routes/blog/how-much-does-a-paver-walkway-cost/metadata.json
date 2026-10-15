@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-much-does-a-paver-walkway-cost/",
+  "title": "Paver Walkway Cost: What to Really Expect to Pay",
+  "description": "Get a clear picture of paver walkway costs, including per square foot pricing, sample budgets, and what affects your price.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-much-does-a-paver-walkway-cost/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-much-does-a-paver-walkway-cost/",
+        "name": "Paver Walkway Cost: What to Really Expect to Pay",
+        "description": "Get a clear picture of paver walkway costs, including per square foot pricing, sample budgets, and what affects your price."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How Much Does a Paver Walkway Cost?",
+        "datePublished": "2026-07-25T12:35:04",
+        "dateModified": "2026-07-23T12:35:21",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-much-does-a-paver-walkway-cost/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Paver Walkway Cost: What to Really Expect to Pay",
+            "item": "https://ridgewellcolorado.com/blog/how-much-does-a-paver-walkway-cost/"
+          }
+        ]
+      }
+    ]
+  }
+}

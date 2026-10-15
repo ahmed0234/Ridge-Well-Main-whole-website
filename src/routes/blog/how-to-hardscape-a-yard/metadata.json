@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-to-hardscape-a-yard/",
+  "title": "How to Hardscape a Yard | Step-by-Step Landscaping Guide",
+  "description": "Learn how to hardscape a yard with step-by-step tips, including patios, walkways, retaining walls, and material selection.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-to-hardscape-a-yard/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-to-hardscape-a-yard/",
+        "name": "How to Hardscape a Yard | Step-by-Step Landscaping Guide",
+        "description": "Learn how to hardscape a yard with step-by-step tips, including patios, walkways, retaining walls, and material selection."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How to Hardscape a Yard?",
+        "datePublished": "2026-03-16T17:07:37",
+        "dateModified": "2026-05-07T11:43:22",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-to-hardscape-a-yard/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How to Hardscape a Yard",
+            "item": "https://ridgewellcolorado.com/blog/how-to-hardscape-a-yard/"
+          }
+        ]
+      }
+    ]
+  }
+}

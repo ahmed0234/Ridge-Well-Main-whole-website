@@ -1,0 +1,57 @@
+{
+  "path": "/service-areas/parker/",
+  "title": "Parker, CO Landscaping & Hardscaping | Ridgewell",
+  "description": "Explore our full range of hardscaping and landscape services, and call to confirm project availability at your address.",
+  "ogType": "website",
+  "image": "/assets/optimized/hero.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Parker",
+          "addressRegion": "CO",
+          "addressCountry": "US"
+        }
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/service-areas/parker/#webpage",
+        "url": "https://ridgewellcolorado.com/service-areas/parker/",
+        "name": "Parker, CO Landscaping & Hardscaping | Ridgewell",
+        "description": "Explore our full range of hardscaping and landscape services, and call to confirm project availability at your address."
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Service areas",
+            "item": "https://ridgewellcolorado.com/service-areas/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Parker",
+            "item": "https://ridgewellcolorado.com/service-areas/parker/"
+          }
+        ]
+      }
+    ]
+  }
+}

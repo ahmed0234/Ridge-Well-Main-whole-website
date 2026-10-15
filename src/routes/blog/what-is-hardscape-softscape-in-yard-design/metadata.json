@@ -1,0 +1,75 @@
+{
+  "path": "/blog/what-is-hardscape-softscape-in-yard-design/",
+  "title": "Hardscape vs Softscape | Ridgewell Colorado",
+  "description": "Learn the difference between hardscape and softscape and how both work together to create a balanced and functional outdoor space.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/what-is-hardscape-softscape-in-yard-design/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/what-is-hardscape-softscape-in-yard-design/",
+        "name": "Hardscape vs Softscape | Ridgewell Colorado",
+        "description": "Learn the difference between hardscape and softscape and how both work together to create a balanced and functional outdoor space."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "What Is Hardscape & Softscape in Yard Design",
+        "datePublished": "2026-03-18T09:02:48",
+        "dateModified": "2026-03-26T09:31:39",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/what-is-hardscape-softscape-in-yard-design/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hardscape vs Softscape",
+            "item": "https://ridgewellcolorado.com/blog/what-is-hardscape-softscape-in-yard-design/"
+          }
+        ]
+      }
+    ]
+  }
+}

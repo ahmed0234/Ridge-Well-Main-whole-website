@@ -1,0 +1,75 @@
+{
+  "path": "/blog/what-do-landscape-architects-do/",
+  "title": "Landscape Architecture Career Guide | Ridgewell Colorado",
+  "description": "Learn what landscape architects do, their work environment, education, skills, and how to become one in this complete career guide.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/what-do-landscape-architects-do/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/what-do-landscape-architects-do/",
+        "name": "Landscape Architecture Career Guide | Ridgewell Colorado",
+        "description": "Learn what landscape architects do, their work environment, education, skills, and how to become one in this complete career guide."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "What Do Landscape Architects Do?",
+        "datePublished": "2026-02-15T14:23:00",
+        "dateModified": "2026-02-13T02:37:54",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/what-do-landscape-architects-do/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Landscape Architecture Career Guide",
+            "item": "https://ridgewellcolorado.com/blog/what-do-landscape-architects-do/"
+          }
+        ]
+      }
+    ]
+  }
+}

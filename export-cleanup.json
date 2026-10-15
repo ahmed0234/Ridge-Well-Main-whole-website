@@ -1,0 +1,414 @@
+[
+  {
+    "path": "/our-services/",
+    "fix": "Replace placeholder link",
+    "label": "Explore Our Work",
+    "target": "/our-work/"
+  },
+  {
+    "path": "/about-us/",
+    "fix": "Replace placeholder link",
+    "label": "Homepage",
+    "target": "/"
+  },
+  {
+    "path": "/our-services/custom-pergola-installation/",
+    "fix": "Replace placeholder link",
+    "label": "See Details",
+    "target": "/our-services/paver-patio/"
+  },
+  {
+    "path": "/our-services/custom-pergola-installation/",
+    "fix": "Replace placeholder link",
+    "label": "See Details",
+    "target": "/our-services/outdoor-kitchen-installers/"
+  },
+  {
+    "path": "/our-services/custom-pergola-installation/",
+    "fix": "Correct inherited fire-installation wording in pergola service coverage"
+  },
+  {
+    "path": "/our-services/retaining-walls-denver/",
+    "fix": "Replace placeholder link",
+    "label": "See Details",
+    "target": "/our-services/gas-fireplace-installation/"
+  },
+  {
+    "path": "/our-services/retaining-walls-denver/",
+    "fix": "Replace placeholder link",
+    "label": "See Details",
+    "target": "/our-services/custom-pergola-installation/"
+  },
+  {
+    "path": "/our-services/landscape-design-installation-denver/",
+    "fix": "Replace placeholder link",
+    "label": "See Details",
+    "target": "/our-services/landscape-design-installation-denver/#project-details"
+  },
+  {
+    "path": "/our-services/landscape-design-installation-denver/",
+    "fix": "Replace placeholder link",
+    "label": "See Details",
+    "target": "/our-services/"
+  },
+  {
+    "path": "/our-services/outdoor-kitchen-installers/",
+    "fix": "Replace placeholder link",
+    "label": "See Details",
+    "target": "/our-services/retaining-walls-denver/"
+  },
+  {
+    "path": "/our-services/outdoor-kitchen-installers/",
+    "fix": "Replace placeholder link",
+    "label": "See Details",
+    "target": "/our-services/custom-pergola-installation/"
+  },
+  {
+    "path": "/our-services/gas-fireplace-installation/",
+    "fix": "Replace placeholder link",
+    "label": "See Details",
+    "target": "/our-services/retaining-walls-denver/"
+  },
+  {
+    "path": "/our-services/gas-fireplace-installation/",
+    "fix": "Replace placeholder link",
+    "label": "See Details",
+    "target": "/our-services/custom-pergola-installation/"
+  },
+  {
+    "path": "/blog/can-you-put-patio-furniture-in-a-driveway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/spring-mulching-and-its-benefits/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/choose-the-right-plate-compactor-size-for-a-patio-or-driveway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-does-hardscaping-mean/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-much-do-landscaper-make/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-build-a-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-build-a-paver-patio/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-remove-landscape-rock/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/patio-and-driveway-from-molding/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/paver-base-depth-for-patios-proper-installation-tips/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/can-i-just-use-paver-sand-for-a-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/build-a-paver-walkway-and-patio/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-lay-down-an-18x18-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-lay-a-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/can-landscaping-improve-home-value/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-is-hardscaping/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-build-a-paver-walkway-a-complete-diy-and-hiring-guide/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-redo-a-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-is-landscape-architecture/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-much-does-a-20x20-paver-patio-cost/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/install-patio-blocks-as-a-driveway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-do-landscape-architects-do/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-level-of-education-is-required-for-a-landscape-designer/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-do-you-install-a-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-deep-should-rock-be-for-landscaping/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/can-you-use-patio-stones-for-a-driveway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/patio-driveway-cleaning-near-me/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-is-the-standard-width-of-a-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-install-a-paver-front-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/can-patio-pavers-be-used-for-a-driveway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-much-does-it-cost-to-resurface-a-driveway-or-patio-2/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/does-hardscape-increase-home-value/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-turn-driveway-into-a-patio/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/is-silica-sand-recommended-for-stone-paver-walkways/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-turn-a-patio-into-a-driveway-with-pavers/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-keep-mulch-from-washing-onto-a-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-tools-do-landscape-designers-use/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/paver-patio-with-fire-pit-cost-guide/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-landscape-your-front-yard/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/do-it-yourself-concrete-landscape-curbing/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-install-paver-stone-patio/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/do-professionals-seal-cracks-in-driveways-or-patios/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-make-a-curved-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-install-landscape-blocks/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-clean-a-paver-patio/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-level-ground-for-a-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/right-plate-compactor-size-for-a-patio/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/install-a-brick-paver-walkway-on-soil/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-build-a-concrete-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-much-does-a-paver-walkway-cost/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/design-landscaping-in-backyard/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-hardscape-a-yard/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-install-low-voltage-landscape-lighting/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/do-it-yourself-landscape-lighting/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-transition-a-techno-bloc-style-paver-walkway-to-a-driveway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-is-hardscape-softscape-in-yard-design/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/xeriscape-colorado-landscaping-ideas/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-much-does-landscaping-cost/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-is-the-difference-between-landscaping-and-hardscaping/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-get-a-landscaping-license/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-thick-should-paver-base-be-for-a-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-is-a-paver-patio/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/can-stone-pavers-be-used-for-driveways-and-patios/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-slope-a-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/do-it-yourself-backyard-landscaping/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-much-does-a-paver-walkway-cost-installed/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-build-a-paver-walkway-on-a-slope/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-much-do-landscapers-charge-per-hour/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-build-a-brick-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-build-a-raised-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-is-landscaping/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-have-a-patio-on-your-driveway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-clean-a-gravel-driveway-or-patio/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-much-does-hardscaping-cost/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/do-paver-patios-add-home-value/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-finish-off-the-sides-of-a-paver-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-put-a-paver-walkway-over-a-concrete-walkway/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/creative-do-it-yourself-landscaping-ideas/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-much-does-it-cost-to-resurface-a-driveway-or-patio/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-do-landscapers-do/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/what-is-a-structural-landscaper/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/do-you-tip-landscapers/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/how-to-landscape-around-trees/",
+    "fix": "Replace old staging-host internal links with local paths"
+  },
+  {
+    "path": "/blog/do-it-yourself-landscaping-projects/",
+    "fix": "Replace old staging-host internal links with local paths"
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "path": "/blog/do-professionals-seal-cracks-in-driveways-or-patios/",
+  "title": "Should You Seal Driveway Cracks or Repair the Base?",
+  "description": "Yes, but it's often a temporary fix. Learn why cracks form, when sealing works, and when your driveway or patio needs a real repair instead.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/do-professionals-seal-cracks-in-driveways-or-patios/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/do-professionals-seal-cracks-in-driveways-or-patios/",
+        "name": "Should You Seal Driveway Cracks or Repair the Base?",
+        "description": "Yes, but it's often a temporary fix. Learn why cracks form, when sealing works, and when your driveway or patio needs a real repair instead."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Do Professionals Seal Cracks in Driveways or Patios",
+        "datePublished": "2026-07-20T05:01:28",
+        "dateModified": "2026-07-19T05:33:55",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/do-professionals-seal-cracks-in-driveways-or-patios/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Should You Seal Driveway Cracks or Repair the Base?",
+            "item": "https://ridgewellcolorado.com/blog/do-professionals-seal-cracks-in-driveways-or-patios/"
+          }
+        ]
+      }
+    ]
+  }
+}

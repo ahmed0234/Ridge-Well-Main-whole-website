@@ -1,0 +1,75 @@
+{
+  "path": "/blog/what-types-of-plants-are-used-in-landscaping/",
+  "title": "What Types of Plants Are Used in Landscaping | Ridgewell",
+  "description": "Explore the wide variety of plants used in landscaping, including ornamental trees, flowering shrubs, and ground covers for stunning outdoor spaces.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/what-types-of-plants-are-used-in-landscaping/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/what-types-of-plants-are-used-in-landscaping/",
+        "name": "What Types of Plants Are Used in Landscaping | Ridgewell",
+        "description": "Explore the wide variety of plants used in landscaping, including ornamental trees, flowering shrubs, and ground covers for stunning outdoor spaces."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "What Types of Plants Are Used in Landscaping",
+        "datePublished": "2026-01-22T08:03:16",
+        "dateModified": "2026-01-28T11:14:55",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/what-types-of-plants-are-used-in-landscaping/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "What Types of Plants Are Used in Landscaping",
+            "item": "https://ridgewellcolorado.com/blog/what-types-of-plants-are-used-in-landscaping/"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "path": "/blog/do-paver-patios-add-home-value/",
+  "title": "Does A Paver Patio Increase Home Value? | Ridgewell Colorado",
+  "description": "A paver patio can increase home value by improving curb appeal and outdoor living space, often offering strong return on investment.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/do-paver-patios-add-home-value/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/do-paver-patios-add-home-value/",
+        "name": "Does A Paver Patio Increase Home Value? | Ridgewell Colorado",
+        "description": "A paver patio can increase home value by improving curb appeal and outdoor living space, often offering strong return on investment."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Do Paver Patios Add Home Value?",
+        "datePublished": "2026-04-13T01:53:44",
+        "dateModified": "2026-04-14T03:00:57",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/do-paver-patios-add-home-value/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Does A Paver Patio Increase Home Value?",
+            "item": "https://ridgewellcolorado.com/blog/do-paver-patios-add-home-value/"
+          }
+        ]
+      }
+    ]
+  }
+}

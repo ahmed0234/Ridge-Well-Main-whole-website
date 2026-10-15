@@ -1,0 +1,75 @@
+{
+  "path": "/blog/do-it-yourself-landscape-lighting/",
+  "title": "DIY Landscape Lighting That Transforms Your Outdoor Space",
+  "description": "Want stunning outdoor lighting? This DIY landscape lighting guide covers layout, tools, costs, and pro tips for Colorado homeowners.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/do-it-yourself-landscape-lighting/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/do-it-yourself-landscape-lighting/",
+        "name": "DIY Landscape Lighting That Transforms Your Outdoor Space",
+        "description": "Want stunning outdoor lighting? This DIY landscape lighting guide covers layout, tools, costs, and pro tips for Colorado homeowners."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Do It Yourself Landscape Lighting",
+        "datePublished": "2026-05-06T11:49:47",
+        "dateModified": "2026-05-07T12:02:12",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/do-it-yourself-landscape-lighting/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "DIY Landscape Lighting That Transforms Your Outdoor Space",
+            "item": "https://ridgewellcolorado.com/blog/do-it-yourself-landscape-lighting/"
+          }
+        ]
+      }
+    ]
+  }
+}

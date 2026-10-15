@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-thick-should-paver-base-be-for-a-walkway/",
+  "title": "Paver Walkway Base Depth: A Complete Guide",
+  "description": "Learn how thick your paver base should be, layer by layer, and how soil type changes the right depth for your yard.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-thick-should-paver-base-be-for-a-walkway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-thick-should-paver-base-be-for-a-walkway/",
+        "name": "Paver Walkway Base Depth: A Complete Guide",
+        "description": "Learn how thick your paver base should be, layer by layer, and how soil type changes the right depth for your yard."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How Thick Should Paver Base Be for a Walkway",
+        "datePublished": "2026-07-29T05:23:48",
+        "dateModified": "2026-07-24T05:32:17",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-thick-should-paver-base-be-for-a-walkway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Paver Walkway Base Depth: A Complete Guide",
+            "item": "https://ridgewellcolorado.com/blog/how-thick-should-paver-base-be-for-a-walkway/"
+          }
+        ]
+      }
+    ]
+  }
+}

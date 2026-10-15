@@ -1,0 +1,75 @@
+{
+  "path": "/blog/is-silica-sand-recommended-for-stone-paver-walkways/",
+  "title": "Should You Use Silica Sand for a Stone Walkway?",
+  "description": "A clear comparison of silica sand and polymeric sand for stone paver joints, with handling tips and best use cases.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/is-silica-sand-recommended-for-stone-paver-walkways/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/is-silica-sand-recommended-for-stone-paver-walkways/",
+        "name": "Should You Use Silica Sand for a Stone Walkway?",
+        "description": "A clear comparison of silica sand and polymeric sand for stone paver joints, with handling tips and best use cases."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Is Silica Sand Recommended for Stone Paver Walkways?",
+        "datePublished": "2026-08-28T06:31:10",
+        "dateModified": "2026-08-26T06:37:54",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/is-silica-sand-recommended-for-stone-paver-walkways/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Should You Use Silica Sand for a Stone Walkway?",
+            "item": "https://ridgewellcolorado.com/blog/is-silica-sand-recommended-for-stone-paver-walkways/"
+          }
+        ]
+      }
+    ]
+  }
+}

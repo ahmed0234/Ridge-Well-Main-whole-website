@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-to-have-a-patio-on-your-driveway/",
+  "title": "Patio on Your Driveway: A Homeowner's Guide",
+  "description": "Turn unused driveway space into a patio without sacrificing parking. Ridgewell shares tips for Denver, Broomfield, and Parker homeowners.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-to-have-a-patio-on-your-driveway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-to-have-a-patio-on-your-driveway/",
+        "name": "Patio on Your Driveway: A Homeowner's Guide",
+        "description": "Turn unused driveway space into a patio without sacrificing parking. Ridgewell shares tips for Denver, Broomfield, and Parker homeowners."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How to Have a Patio on Your Driveway",
+        "datePublished": "2026-07-23T10:39:40",
+        "dateModified": "2026-07-21T10:46:50",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-to-have-a-patio-on-your-driveway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Patio on Your Driveway: A Homeowner's Guide",
+            "item": "https://ridgewellcolorado.com/blog/how-to-have-a-patio-on-your-driveway/"
+          }
+        ]
+      }
+    ]
+  }
+}

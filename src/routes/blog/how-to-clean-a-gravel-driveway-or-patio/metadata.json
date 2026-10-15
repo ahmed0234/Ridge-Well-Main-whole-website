@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-to-clean-a-gravel-driveway-or-patio/",
+  "title": "Gravel Driveway Cleaning: What Actually Works",
+  "description": "From ruts to weeds, here's how to keep a gravel driveway or patio looking sharp — and why pressure washing isn't part of the process.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-to-clean-a-gravel-driveway-or-patio/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-to-clean-a-gravel-driveway-or-patio/",
+        "name": "Gravel Driveway Cleaning: What Actually Works",
+        "description": "From ruts to weeds, here's how to keep a gravel driveway or patio looking sharp — and why pressure washing isn't part of the process."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How to Clean a Gravel Driveway or Patio",
+        "datePublished": "2026-07-22T10:32:57",
+        "dateModified": "2026-07-21T10:39:30",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-to-clean-a-gravel-driveway-or-patio/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Gravel Driveway Cleaning: What Actually Works",
+            "item": "https://ridgewellcolorado.com/blog/how-to-clean-a-gravel-driveway-or-patio/"
+          }
+        ]
+      }
+    ]
+  }
+}

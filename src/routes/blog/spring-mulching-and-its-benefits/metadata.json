@@ -1,0 +1,75 @@
+{
+  "path": "/blog/spring-mulching-and-its-benefits/",
+  "title": "Professional Spring Mulching & It's Benefits | Ridgewell",
+  "description": "Learn what spring mulching is, why it matters in Denver’s climate, and how professional mulching improves soil health, plant growth, and landscape longevity.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/spring-mulching-and-its-benefits/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/spring-mulching-and-its-benefits/",
+        "name": "Professional Spring Mulching & It's Benefits | Ridgewell",
+        "description": "Learn what spring mulching is, why it matters in Denver’s climate, and how professional mulching improves soil health, plant growth, and landscape longevity."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "What is Spring Mulching & Benefits of Professional Mulching",
+        "datePublished": "2026-02-27T09:30:45",
+        "dateModified": "2026-02-27T09:30:49",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/spring-mulching-and-its-benefits/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Professional Spring Mulching & It's Benefits",
+            "item": "https://ridgewellcolorado.com/blog/spring-mulching-and-its-benefits/"
+          }
+        ]
+      }
+    ]
+  }
+}

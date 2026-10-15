@@ -1,0 +1,65 @@
+{
+  "path": "/blog/category/landscape/",
+  "title": "Landscape ideas & guides | Ridgewell Colorado",
+  "description": "Practical outdoor living guides from Ridgewell Colorado. Explore hardscaping, patios, landscaping, materials, maintenance and design ideas.",
+  "ogType": "website",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/category/landscape/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/category/landscape/",
+        "name": "Landscape ideas & guides | Ridgewell Colorado",
+        "description": "Practical outdoor living guides from Ridgewell Colorado. Explore hardscaping, patios, landscaping, materials, maintenance and design ideas."
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Landscape ideas & guides",
+            "item": "https://ridgewellcolorado.com/blog/category/landscape/"
+          }
+        ]
+      }
+    ]
+  }
+}

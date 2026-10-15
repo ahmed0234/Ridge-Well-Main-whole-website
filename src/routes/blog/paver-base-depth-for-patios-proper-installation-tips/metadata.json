@@ -1,0 +1,75 @@
+{
+  "path": "/blog/paver-base-depth-for-patios-proper-installation-tips/",
+  "title": "How Deep Should Paver Base Be For Patio | Ridgewell Colorado",
+  "description": "Learn how deep a paver base should be for a patio to ensure stability, proper drainage, and long-lasting results.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/paver-base-depth-for-patios-proper-installation-tips/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/paver-base-depth-for-patios-proper-installation-tips/",
+        "name": "How Deep Should Paver Base Be For Patio | Ridgewell Colorado",
+        "description": "Learn how deep a paver base should be for a patio to ensure stability, proper drainage, and long-lasting results."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Paver Base Depth for Patios & Proper Installation Tips",
+        "datePublished": "2026-04-10T11:35:13",
+        "dateModified": "2026-04-13T12:04:32",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/paver-base-depth-for-patios-proper-installation-tips/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How Deep Should Paver Base Be For Patio",
+            "item": "https://ridgewellcolorado.com/blog/paver-base-depth-for-patios-proper-installation-tips/"
+          }
+        ]
+      }
+    ]
+  }
+}

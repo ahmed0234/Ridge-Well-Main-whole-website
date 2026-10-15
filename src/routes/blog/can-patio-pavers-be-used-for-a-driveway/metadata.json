@@ -1,0 +1,75 @@
+{
+  "path": "/blog/can-patio-pavers-be-used-for-a-driveway/",
+  "title": "Can Patio Pavers Be Used for a Driveway? | Ridgewell Guide",
+  "description": "Wondering can patio pavers be used for driveway projects? Learn about strength, installation, durability, and the best paver options for Colorado homes.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/can-patio-pavers-be-used-for-a-driveway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/can-patio-pavers-be-used-for-a-driveway/",
+        "name": "Can Patio Pavers Be Used for a Driveway? | Ridgewell Guide",
+        "description": "Wondering can patio pavers be used for driveway projects? Learn about strength, installation, durability, and the best paver options for Colorado homes."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Can Patio Pavers Be Used for Driveway?",
+        "datePublished": "2026-07-09T10:58:24",
+        "dateModified": "2026-07-15T11:09:25",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/can-patio-pavers-be-used-for-a-driveway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Can Patio Pavers Be Used for a Driveway?",
+            "item": "https://ridgewellcolorado.com/blog/can-patio-pavers-be-used-for-a-driveway/"
+          }
+        ]
+      }
+    ]
+  }
+}

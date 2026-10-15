@@ -1,0 +1,75 @@
+{
+  "path": "/blog/the-best-paver-driveway-ideas-for-your-home/",
+  "title": "Best Paver Driveway Ideas for Every Home Ridgewell Colorado",
+  "description": "Explore paver driveway ideas covering patterns, borders, colors, and layouts that boost curb appeal and hold up to daily use.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/the-best-paver-driveway-ideas-for-your-home/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/the-best-paver-driveway-ideas-for-your-home/",
+        "name": "Best Paver Driveway Ideas for Every Home Ridgewell Colorado",
+        "description": "Explore paver driveway ideas covering patterns, borders, colors, and layouts that boost curb appeal and hold up to daily use."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "The Best Paver Driveway Ideas for Your Home",
+        "datePublished": "2026-10-08T15:53:45",
+        "dateModified": "2026-10-11T15:59:25",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/the-best-paver-driveway-ideas-for-your-home/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Best Paver Driveway Ideas for Every Home Ridgewell Colorado",
+            "item": "https://ridgewellcolorado.com/blog/the-best-paver-driveway-ideas-for-your-home/"
+          }
+        ]
+      }
+    ]
+  }
+}

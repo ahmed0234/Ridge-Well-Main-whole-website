@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-to-transition-a-techno-bloc-style-paver-walkway-to-a-driveway/",
+  "title": "Paver Walkway to Driveway Transition Guide",
+  "description": "A complete guide to transitioning walkway pavers into a driveway, covering weight rating, base matching, and borders.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-to-transition-a-techno-bloc-style-paver-walkway-to-a-driveway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-to-transition-a-techno-bloc-style-paver-walkway-to-a-driveway/",
+        "name": "Paver Walkway to Driveway Transition Guide",
+        "description": "A complete guide to transitioning walkway pavers into a driveway, covering weight rating, base matching, and borders."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How to Transition a Techno-Bloc Style Paver Walkway to a Driveway",
+        "datePublished": "2026-08-29T06:46:48",
+        "dateModified": "2026-08-26T06:55:33",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-to-transition-a-techno-bloc-style-paver-walkway-to-a-driveway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Paver Walkway to Driveway Transition Guide",
+            "item": "https://ridgewellcolorado.com/blog/how-to-transition-a-techno-bloc-style-paver-walkway-to-a-driveway/"
+          }
+        ]
+      }
+    ]
+  }
+}

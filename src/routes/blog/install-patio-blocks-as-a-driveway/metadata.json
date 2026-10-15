@@ -1,0 +1,75 @@
+{
+  "path": "/blog/install-patio-blocks-as-a-driveway/",
+  "title": "Can You Install Patio Blocks as a Driveway",
+  "description": "A practical guide to installing patio pavers for driveway use, covering thickness limits and proper base depth.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/install-patio-blocks-as-a-driveway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/install-patio-blocks-as-a-driveway/",
+        "name": "Can You Install Patio Blocks as a Driveway",
+        "description": "A practical guide to installing patio pavers for driveway use, covering thickness limits and proper base depth."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How to Install Patio Blocks as a Driveway",
+        "datePublished": "2026-09-03T07:51:39",
+        "dateModified": "2026-09-03T07:51:41",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/install-patio-blocks-as-a-driveway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Can You Install Patio Blocks as a Driveway",
+            "item": "https://ridgewellcolorado.com/blog/install-patio-blocks-as-a-driveway/"
+          }
+        ]
+      }
+    ]
+  }
+}

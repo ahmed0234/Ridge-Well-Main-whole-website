@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-to-redo-a-paver-walkway/",
+  "title": "How to Fix and Redo an Old Paver Walkway",
+  "description": "Learn how to diagnose walkway problems and decide whether to reuse your existing pavers or start fresh, step by step.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-to-redo-a-paver-walkway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-to-redo-a-paver-walkway/",
+        "name": "How to Fix and Redo an Old Paver Walkway",
+        "description": "Learn how to diagnose walkway problems and decide whether to reuse your existing pavers or start fresh, step by step."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How to Redo a Paver Walkway",
+        "datePublished": "2026-08-31T06:46:49",
+        "dateModified": "2026-08-26T07:02:45",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-to-redo-a-paver-walkway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How to Fix and Redo an Old Paver Walkway",
+            "item": "https://ridgewellcolorado.com/blog/how-to-redo-a-paver-walkway/"
+          }
+        ]
+      }
+    ]
+  }
+}

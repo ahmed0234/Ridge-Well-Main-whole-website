@@ -1,0 +1,75 @@
+{
+  "path": "/blog/what-does-hardscaping-mean/",
+  "title": "What Does Hardscaping Mean? | Ridgewell Colorado",
+  "description": "Hardscaping refers to the non-plant elements of landscaping, like patios, walkways, and retaining walls, that shape and define your outdoor space.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/what-does-hardscaping-mean/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/what-does-hardscaping-mean/",
+        "name": "What Does Hardscaping Mean? | Ridgewell Colorado",
+        "description": "Hardscaping refers to the non-plant elements of landscaping, like patios, walkways, and retaining walls, that shape and define your outdoor space."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "What Does Hardscaping Mean?",
+        "datePublished": "2026-03-24T09:04:25",
+        "dateModified": "2026-03-26T09:32:14",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/what-does-hardscaping-mean/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "What Does Hardscaping Mean?",
+            "item": "https://ridgewellcolorado.com/blog/what-does-hardscaping-mean/"
+          }
+        ]
+      }
+    ]
+  }
+}

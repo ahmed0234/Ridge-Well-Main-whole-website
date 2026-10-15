@@ -1,0 +1,75 @@
+{
+  "path": "/blog/can-stone-pavers-be-used-for-driveways-and-patios/",
+  "title": "Stone Pavers for Driveways & Patios: Colorado Guide",
+  "description": "Stone pavers aren't just for patios. Learn which types handle driveways best, avoid common myths, and what Colorado winters mean for your build.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/can-stone-pavers-be-used-for-driveways-and-patios/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/can-stone-pavers-be-used-for-driveways-and-patios/",
+        "name": "Stone Pavers for Driveways & Patios: Colorado Guide",
+        "description": "Stone pavers aren't just for patios. Learn which types handle driveways best, avoid common myths, and what Colorado winters mean for your build."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Can Stone Pavers Be Used for Driveways and Patios?",
+        "datePublished": "2026-07-07T06:20:41",
+        "dateModified": "2026-07-17T06:30:20",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/can-stone-pavers-be-used-for-driveways-and-patios/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Stone Pavers for Driveways & Patios: Colorado Guide",
+            "item": "https://ridgewellcolorado.com/blog/can-stone-pavers-be-used-for-driveways-and-patios/"
+          }
+        ]
+      }
+    ]
+  }
+}

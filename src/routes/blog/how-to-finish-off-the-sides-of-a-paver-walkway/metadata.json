@@ -1,0 +1,75 @@
+{
+  "path": "/blog/how-to-finish-off-the-sides-of-a-paver-walkway/",
+  "title": "Finishing a Paver Walkway's Edges the Right Way",
+  "description": "Explore border and edging options for a paver walkway, from stone and gravel to mulch beds and living groundcover.",
+  "ogType": "article",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/blog/how-to-finish-off-the-sides-of-a-paver-walkway/#webpage",
+        "url": "https://ridgewellcolorado.com/blog/how-to-finish-off-the-sides-of-a-paver-walkway/",
+        "name": "Finishing a Paver Walkway's Edges the Right Way",
+        "description": "Explore border and edging options for a paver walkway, from stone and gravel to mulch beds and living groundcover."
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "How to Finish Off the Sides of a Paver Walkway",
+        "datePublished": "2026-08-26T06:16:59",
+        "dateModified": "2026-08-26T06:17:01",
+        "mainEntityOfPage": "https://ridgewellcolorado.com/blog/how-to-finish-off-the-sides-of-a-paver-walkway/",
+        "publisher": {
+          "@id": "https://ridgewellcolorado.com/#business"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Finishing a Paver Walkway's Edges the Right Way",
+            "item": "https://ridgewellcolorado.com/blog/how-to-finish-off-the-sides-of-a-paver-walkway/"
+          }
+        ]
+      }
+    ]
+  }
+}

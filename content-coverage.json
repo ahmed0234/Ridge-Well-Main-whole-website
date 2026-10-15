@@ -1,0 +1,814 @@
+[
+  {
+    "id": 948,
+    "path": "/our-services/xeriscape-landscaping-in-denver/",
+    "source_words": 1841,
+    "preserved_body_words": 1541,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 894,
+    "path": "/our-services/custom-pergola-installation/",
+    "source_words": 1217,
+    "preserved_body_words": 922,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 886,
+    "path": "/our-services/gas-fireplace-installation/",
+    "source_words": 1187,
+    "preserved_body_words": 888,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 881,
+    "path": "/our-services/retaining-walls-denver/",
+    "source_words": 1355,
+    "preserved_body_words": 1061,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 799,
+    "path": "/our-services/landscape-design-installation-denver/",
+    "source_words": 1444,
+    "preserved_body_words": 1143,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1193,
+    "path": "/our-services/patio-contractors-in-lakewood-co/",
+    "source_words": 1403,
+    "preserved_body_words": 1105,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1112,
+    "path": "/our-services/patio-design-installation-aurora-co/",
+    "source_words": 1458,
+    "preserved_body_words": 1162,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1057,
+    "path": "/our-services/patio-design-installation-brighton-co/",
+    "source_words": 1469,
+    "preserved_body_words": 1173,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 310,
+    "path": "/our-services/paver-patio/",
+    "source_words": 1451,
+    "preserved_body_words": 1147,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 740,
+    "path": "/our-services/outdoor-kitchen-installers/",
+    "source_words": 1355,
+    "preserved_body_words": 1055,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1499,
+    "path": "/our-services/landscape-design-installation-services-brighton-co/",
+    "source_words": 2439,
+    "preserved_body_words": 2171,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1469,
+    "path": "/our-services/landscape-design-installation-services-lakewood-co/",
+    "source_words": 2424,
+    "preserved_body_words": 2148,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1412,
+    "path": "/our-services/landscape-design-installation-aurora-co/",
+    "source_words": 2268,
+    "preserved_body_words": 1996,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1370,
+    "path": "/our-services/landscape-design-installation-arvada-co/",
+    "source_words": 2226,
+    "preserved_body_words": 1959,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1366,
+    "path": "/our-services/outdoor-kitchen-lakewood-co/",
+    "source_words": 1995,
+    "preserved_body_words": 1709,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1310,
+    "path": "/our-services/outdoor-kitchen-arvada-co/",
+    "source_words": 1917,
+    "preserved_body_words": 1631,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1123,
+    "path": "/our-services/patio-installation-contractor-in-arvada-co/",
+    "source_words": 1390,
+    "preserved_body_words": 1094,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 101,
+    "path": "/contact-us/",
+    "source_words": 59,
+    "preserved_body_words": 53,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 100,
+    "path": "/about-us/",
+    "source_words": 578,
+    "preserved_body_words": 303,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 99,
+    "path": "/our-services/",
+    "source_words": 768,
+    "preserved_body_words": 487,
+    "notes": "Form and repeated testimonials replaced with shared components; source snapshot retained."
+  },
+  {
+    "id": 1792,
+    "path": "/blog/how-do-you-make-a-driveway-with-pavers/",
+    "source_words": 2664,
+    "preserved_body_words": 2664,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1785,
+    "path": "/blog/paver-driveway-or-concrete/",
+    "source_words": 2158,
+    "preserved_body_words": 2158,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1784,
+    "path": "/blog/the-best-paver-driveway-ideas-for-your-home/",
+    "source_words": 2316,
+    "preserved_body_words": 2316,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1777,
+    "path": "/our-services/xeriscaping-centennial-co/",
+    "source_words": 1013,
+    "preserved_body_words": 1013,
+    "notes": "Existing service stored as a WordPress post; source detail retained within service layout."
+  },
+  {
+    "id": 1783,
+    "path": "/blog/how-much-does-a-paver-driveway-cost/",
+    "source_words": 2213,
+    "preserved_body_words": 2213,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1776,
+    "path": "/our-services/xeriscaping-littleton-co/",
+    "source_words": 905,
+    "preserved_body_words": 905,
+    "notes": "Existing service stored as a WordPress post; source detail retained within service layout."
+  },
+  {
+    "id": 1771,
+    "path": "/our-services/xeriscaping-lakewood-co/",
+    "source_words": 902,
+    "preserved_body_words": 902,
+    "notes": "Existing service stored as a WordPress post; source detail retained within service layout."
+  },
+  {
+    "id": 1835,
+    "path": "/blog/adding-a-turnaround-to-your-driveway/",
+    "source_words": 2618,
+    "preserved_body_words": 2618,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1664,
+    "path": "/our-services/xeriscaping-broomfield-co/",
+    "source_words": 945,
+    "preserved_body_words": 945,
+    "notes": "Existing service stored as a WordPress post; source detail retained within service layout."
+  },
+  {
+    "id": 1663,
+    "path": "/our-services/xeriscaping-aurora-co/",
+    "source_words": 1016,
+    "preserved_body_words": 1016,
+    "notes": "Existing service stored as a WordPress post; source detail retained within service layout."
+  },
+  {
+    "id": 1662,
+    "path": "/our-services/xeriscaping-arvada-co/",
+    "source_words": 1124,
+    "preserved_body_words": 1124,
+    "notes": "Existing service stored as a WordPress post; source detail retained within service layout."
+  },
+  {
+    "id": 1609,
+    "path": "/blog/how-to-turn-a-patio-into-a-driveway-with-pavers/",
+    "source_words": 1593,
+    "preserved_body_words": 1572,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1608,
+    "path": "/blog/patio-and-driveway-from-molding/",
+    "source_words": 1987,
+    "preserved_body_words": 1967,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1607,
+    "path": "/blog/install-patio-blocks-as-a-driveway/",
+    "source_words": 1746,
+    "preserved_body_words": 1727,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1595,
+    "path": "/blog/how-to-redo-a-paver-walkway/",
+    "source_words": 1989,
+    "preserved_body_words": 1972,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1594,
+    "path": "/blog/how-to-transition-a-techno-bloc-style-paver-walkway-to-a-driveway/",
+    "source_words": 1960,
+    "preserved_body_words": 1938,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1589,
+    "path": "/blog/how-to-put-a-paver-walkway-over-a-concrete-walkway/",
+    "source_words": 1952,
+    "preserved_body_words": 1931,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1588,
+    "path": "/blog/is-silica-sand-recommended-for-stone-paver-walkways/",
+    "source_words": 2017,
+    "preserved_body_words": 1998,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1584,
+    "path": "/blog/how-to-keep-mulch-from-washing-onto-a-paver-walkway/",
+    "source_words": 1887,
+    "preserved_body_words": 1866,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1583,
+    "path": "/blog/how-to-finish-off-the-sides-of-a-paver-walkway/",
+    "source_words": 2571,
+    "preserved_body_words": 2550,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1576,
+    "path": "/blog/how-to-lay-down-an-18x18-paver-walkway/",
+    "source_words": 1606,
+    "preserved_body_words": 1587,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1569,
+    "path": "/blog/how-to-build-a-raised-paver-walkway/",
+    "source_words": 1863,
+    "preserved_body_words": 1845,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1568,
+    "path": "/blog/how-to-slope-a-paver-walkway/",
+    "source_words": 1848,
+    "preserved_body_words": 1831,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1567,
+    "path": "/blog/install-a-brick-paver-walkway-on-soil/",
+    "source_words": 2031,
+    "preserved_body_words": 2011,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1560,
+    "path": "/blog/build-a-paver-walkway-and-patio/",
+    "source_words": 1866,
+    "preserved_body_words": 1846,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1559,
+    "path": "/blog/how-to-install-a-paver-front-walkway/",
+    "source_words": 2033,
+    "preserved_body_words": 2015,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1558,
+    "path": "/blog/how-to-build-a-paver-walkway/",
+    "source_words": 1548,
+    "preserved_body_words": 1526,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1550,
+    "path": "/blog/how-much-does-a-paver-walkway-cost-installed/",
+    "source_words": 1606,
+    "preserved_body_words": 1587,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1549,
+    "path": "/blog/how-do-you-install-a-paver-walkway/",
+    "source_words": 1831,
+    "preserved_body_words": 1813,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1548,
+    "path": "/blog/can-i-just-use-paver-sand-for-a-walkway/",
+    "source_words": 2134,
+    "preserved_body_words": 2114,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1544,
+    "path": "/blog/how-to-build-a-concrete-paver-walkway/",
+    "source_words": 1923,
+    "preserved_body_words": 1905,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1543,
+    "path": "/blog/how-to-build-a-brick-paver-walkway/",
+    "source_words": 1831,
+    "preserved_body_words": 1813,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1518,
+    "path": "/blog/how-to-level-ground-for-a-paver-walkway/",
+    "source_words": 2097,
+    "preserved_body_words": 2078,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1516,
+    "path": "/blog/how-thick-should-paver-base-be-for-a-walkway/",
+    "source_words": 1681,
+    "preserved_body_words": 1661,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1514,
+    "path": "/blog/what-is-the-standard-width-of-a-paver-walkway/",
+    "source_words": 1976,
+    "preserved_body_words": 1956,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1494,
+    "path": "/blog/how-to-make-a-curved-paver-walkway/",
+    "source_words": 1887,
+    "preserved_body_words": 1869,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1493,
+    "path": "/blog/how-to-build-a-paver-walkway-on-a-slope/",
+    "source_words": 2505,
+    "preserved_body_words": 2485,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1491,
+    "path": "/blog/how-much-does-a-paver-walkway-cost/",
+    "source_words": 2129,
+    "preserved_body_words": 2111,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1488,
+    "path": "/blog/how-to-lay-a-paver-walkway/",
+    "source_words": 2219,
+    "preserved_body_words": 2202,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1486,
+    "path": "/blog/how-to-build-a-paver-walkway-a-complete-diy-and-hiring-guide/",
+    "source_words": 1872,
+    "preserved_body_words": 1849,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1466,
+    "path": "/blog/how-to-have-a-patio-on-your-driveway/",
+    "source_words": 1640,
+    "preserved_body_words": 1621,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1464,
+    "path": "/blog/how-to-clean-a-gravel-driveway-or-patio/",
+    "source_words": 1828,
+    "preserved_body_words": 1809,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1462,
+    "path": "/blog/choose-the-right-plate-compactor-size-for-a-patio-or-driveway/",
+    "source_words": 1159,
+    "preserved_body_words": 1135,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1460,
+    "path": "/blog/how-much-does-it-cost-to-resurface-a-driveway-or-patio-2/",
+    "source_words": 1005,
+    "preserved_body_words": 983,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1452,
+    "path": "/blog/do-professionals-seal-cracks-in-driveways-or-patios/",
+    "source_words": 1059,
+    "preserved_body_words": 1040,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1444,
+    "path": "/blog/can-you-use-patio-stones-for-a-driveway/",
+    "source_words": 1160,
+    "preserved_body_words": 1141,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1453,
+    "path": "/blog/how-much-does-it-cost-to-resurface-a-driveway-or-patio/",
+    "source_words": 1005,
+    "preserved_body_words": 983,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1439,
+    "path": "/blog/patio-driveway-cleaning-near-me/",
+    "source_words": 1160,
+    "preserved_body_words": 1133,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1438,
+    "path": "/blog/can-you-put-patio-furniture-in-a-driveway/",
+    "source_words": 918,
+    "preserved_body_words": 899,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1435,
+    "path": "/blog/can-patio-pavers-be-used-for-a-driveway/",
+    "source_words": 3556,
+    "preserved_body_words": 3538,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1437,
+    "path": "/blog/can-stone-pavers-be-used-for-driveways-and-patios/",
+    "source_words": 1386,
+    "preserved_body_words": 1366,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1432,
+    "path": "/blog/how-to-turn-driveway-into-a-patio/",
+    "source_words": 3681,
+    "preserved_body_words": 3662,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1454,
+    "path": "/blog/right-plate-compactor-size-for-a-patio/",
+    "source_words": 1159,
+    "preserved_body_words": 1135,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1292,
+    "path": "/blog/how-deep-should-rock-be-for-landscaping/",
+    "source_words": 2942,
+    "preserved_body_words": 2924,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1291,
+    "path": "/blog/how-to-install-landscape-blocks/",
+    "source_words": 3954,
+    "preserved_body_words": 3938,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1276,
+    "path": "/blog/how-to-remove-landscape-rock/",
+    "source_words": 4035,
+    "preserved_body_words": 4019,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1274,
+    "path": "/blog/how-to-landscape-around-trees/",
+    "source_words": 1904,
+    "preserved_body_words": 1888,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1272,
+    "path": "/blog/how-to-get-a-landscaping-license/",
+    "source_words": 3855,
+    "preserved_body_words": 3838,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1269,
+    "path": "/blog/do-it-yourself-backyard-landscaping/",
+    "source_words": 3307,
+    "preserved_body_words": 3291,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1265,
+    "path": "/blog/can-landscaping-improve-home-value/",
+    "source_words": 2559,
+    "preserved_body_words": 2543,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1262,
+    "path": "/blog/what-is-a-structural-landscaper/",
+    "source_words": 4735,
+    "preserved_body_words": 4719,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1190,
+    "path": "/blog/do-it-yourself-landscaping-projects/",
+    "source_words": 3158,
+    "preserved_body_words": 3142,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1189,
+    "path": "/blog/do-it-yourself-landscape-lighting/",
+    "source_words": 2654,
+    "preserved_body_words": 2638,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1186,
+    "path": "/blog/do-it-yourself-concrete-landscape-curbing/",
+    "source_words": 2595,
+    "preserved_body_words": 2578,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1180,
+    "path": "/blog/how-to-install-low-voltage-landscape-lighting/",
+    "source_words": 2930,
+    "preserved_body_words": 2912,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1109,
+    "path": "/blog/paver-patio-with-fire-pit-cost-guide/",
+    "source_words": 2325,
+    "preserved_body_words": 2307,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1107,
+    "path": "/blog/do-paver-patios-add-home-value/",
+    "source_words": 2019,
+    "preserved_body_words": 2002,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1099,
+    "path": "/blog/paver-base-depth-for-patios-proper-installation-tips/",
+    "source_words": 2631,
+    "preserved_body_words": 2608,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1098,
+    "path": "/blog/what-is-a-paver-patio/",
+    "source_words": 2572,
+    "preserved_body_words": 2556,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1097,
+    "path": "/blog/how-to-clean-a-paver-patio/",
+    "source_words": 2338,
+    "preserved_body_words": 2321,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1095,
+    "path": "/blog/how-to-install-paver-stone-patio/",
+    "source_words": 2657,
+    "preserved_body_words": 2640,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1091,
+    "path": "/blog/how-much-does-a-20x20-paver-patio-cost/",
+    "source_words": 2215,
+    "preserved_body_words": 2196,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 1010,
+    "path": "/blog/how-to-build-a-paver-patio/",
+    "source_words": 2276,
+    "preserved_body_words": 2258,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 989,
+    "path": "/blog/how-much-does-hardscaping-cost/",
+    "source_words": 2220,
+    "preserved_body_words": 2204,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 992,
+    "path": "/blog/what-does-hardscaping-mean/",
+    "source_words": 3021,
+    "preserved_body_words": 3006,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 995,
+    "path": "/blog/what-is-the-difference-between-landscaping-and-hardscaping/",
+    "source_words": 2500,
+    "preserved_body_words": 2481,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 980,
+    "path": "/blog/does-hardscape-increase-home-value/",
+    "source_words": 2881,
+    "preserved_body_words": 2865,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 997,
+    "path": "/blog/what-is-hardscape-softscape-in-yard-design/",
+    "source_words": 1724,
+    "preserved_body_words": 1705,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 976,
+    "path": "/blog/how-to-hardscape-a-yard/",
+    "source_words": 3217,
+    "preserved_body_words": 3201,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 974,
+    "path": "/blog/what-is-hardscaping/",
+    "source_words": 2555,
+    "preserved_body_words": 2541,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 970,
+    "path": "/blog/xeriscape-colorado-landscaping-ideas/",
+    "source_words": 2755,
+    "preserved_body_words": 2738,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 964,
+    "path": "/blog/what-level-of-education-is-required-for-a-landscape-designer/",
+    "source_words": 2681,
+    "preserved_body_words": 2660,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 946,
+    "path": "/blog/creative-do-it-yourself-landscaping-ideas/",
+    "source_words": 2287,
+    "preserved_body_words": 2270,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 943,
+    "path": "/blog/how-to-landscape-your-front-yard/",
+    "source_words": 2462,
+    "preserved_body_words": 2445,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 919,
+    "path": "/blog/spring-mulching-and-its-benefits/",
+    "source_words": 2419,
+    "preserved_body_words": 2399,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 920,
+    "path": "/blog/how-much-do-landscapers-charge-per-hour/",
+    "source_words": 2195,
+    "preserved_body_words": 2177,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 879,
+    "path": "/blog/do-you-tip-landscapers/",
+    "source_words": 1933,
+    "preserved_body_words": 1918,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 877,
+    "path": "/blog/what-do-landscape-architects-do/",
+    "source_words": 2628,
+    "preserved_body_words": 2612,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 873,
+    "path": "/blog/what-is-landscape-architecture/",
+    "source_words": 1373,
+    "preserved_body_words": 1358,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 846,
+    "path": "/blog/what-tools-do-landscape-designers-use/",
+    "source_words": 2327,
+    "preserved_body_words": 2310,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 789,
+    "path": "/blog/what-do-landscapers-do/",
+    "source_words": 2526,
+    "preserved_body_words": 2511,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 781,
+    "path": "/blog/how-much-do-landscaper-make/",
+    "source_words": 1346,
+    "preserved_body_words": 1330,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 782,
+    "path": "/blog/design-landscaping-in-backyard/",
+    "source_words": 2017,
+    "preserved_body_words": 1998,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 692,
+    "path": "/blog/how-much-does-landscaping-cost/",
+    "source_words": 2980,
+    "preserved_body_words": 2964,
+    "notes": "Full article body recovered and preserved."
+  },
+  {
+    "id": 637,
+    "path": "/blog/what-types-of-plants-are-used-in-landscaping/",
+    "source_words": 127,
+    "preserved_body_words": 127,
+    "notes": "Original source body missing; replacement introduction written for review."
+  },
+  {
+    "id": 151,
+    "path": "/blog/what-is-landscaping/",
+    "source_words": 2232,
+    "preserved_body_words": 2212,
+    "notes": "Full article body recovered and preserved."
+  }
+]

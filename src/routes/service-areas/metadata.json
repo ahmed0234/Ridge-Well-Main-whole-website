@@ -1,0 +1,65 @@
+{
+  "path": "/service-areas/",
+  "title": "Denver Metro Service Areas | Ridgewell Colorado",
+  "description": "Find Ridgewell hardscaping, patio, kitchen and landscape services in Denver, Arvada, Aurora, Brighton, Lakewood and surrounding communities.",
+  "ogType": "website",
+  "image": "/assets/optimized/paver_patios.webp",
+  "allowIndex": true,
+  "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HomeAndConstructionBusiness",
+        "@id": "https://ridgewellcolorado.com/#business",
+        "name": "Ridgewell Landscape and Design",
+        "url": "https://ridgewellcolorado.com/",
+        "telephone": "+17208825772",
+        "email": "info@ridgewellcolorado.com",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16575 E Hialeah Dr",
+          "addressLocality": "Centennial",
+          "addressRegion": "CO",
+          "postalCode": "80015",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Denver",
+          "Arvada",
+          "Aurora",
+          "Brighton",
+          "Lakewood",
+          "Centennial",
+          "Littleton",
+          "Broomfield",
+          "Parker"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://ridgewellcolorado.com/service-areas/#webpage",
+        "url": "https://ridgewellcolorado.com/service-areas/",
+        "name": "Denver Metro Service Areas | Ridgewell Colorado",
+        "description": "Find Ridgewell hardscaping, patio, kitchen and landscape services in Denver, Arvada, Aurora, Brighton, Lakewood and surrounding communities."
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ridgewellcolorado.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Denver Metro Service Areas",
+            "item": "https://ridgewellcolorado.com/service-areas/"
+          }
+        ]
+      }
+    ]
+  }
+}

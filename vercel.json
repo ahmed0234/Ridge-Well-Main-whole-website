@@ -1,0 +1,100 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "trailingSlash": true,
+  "cleanUrls": false,
+  "redirects": [
+    {
+      "source": "/blog/what-is-the-standard-width-of-paver-walkway",
+      "destination": "/blog/what-is-the-standard-width-of-a-paver-walkway/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-is-the-standard-width-of-paver-walkway/",
+      "destination": "/blog/what-is-the-standard-width-of-a-paver-walkway/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-paver-driveway-ideas",
+      "destination": "/blog/the-best-paver-driveway-ideas-for-your-home/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-paver-driveway-ideas/",
+      "destination": "/blog/the-best-paver-driveway-ideas-for-your-home/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-make-a-driveway-with-pavers",
+      "destination": "/blog/how-do-you-make-a-driveway-with-pavers/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-make-a-driveway-with-pavers/",
+      "destination": "/blog/how-do-you-make-a-driveway-with-pavers/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/do-you-seal-cracks-in-driveways-and-patios",
+      "destination": "/blog/do-professionals-seal-cracks-in-driveways-or-patios/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/do-you-seal-cracks-in-driveways-and-patios/",
+      "destination": "/blog/do-professionals-seal-cracks-in-driveways-or-patios/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-level-ground-for-paver-walkway",
+      "destination": "/blog/how-to-level-ground-for-a-paver-walkway/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-level-ground-for-paver-walkway/",
+      "destination": "/blog/how-to-level-ground-for-a-paver-walkway/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/paver-driveway-vs-concrete",
+      "destination": "/blog/paver-driveway-or-concrete/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/paver-driveway-vs-concrete/",
+      "destination": "/blog/paver-driveway-or-concrete/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-thick-should-paver-base-be-for-walkway",
+      "destination": "/blog/how-thick-should-paver-base-be-for-a-walkway/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-thick-should-paver-base-be-for-walkway/",
+      "destination": "/blog/how-thick-should-paver-base-be-for-a-walkway/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-transition-techno-block-paver-walkway-to-a-driveway",
+      "destination": "/blog/how-to-transition-a-techno-bloc-style-paver-walkway-to-a-driveway/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-transition-techno-block-paver-walkway-to-a-driveway/",
+      "destination": "/blog/how-to-transition-a-techno-bloc-style-paver-walkway-to-a-driveway/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/can-patio-stones-be-used-for-a-driveway",
+      "destination": "/blog/can-you-use-patio-stones-for-a-driveway/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/can-patio-stones-be-used-for-a-driveway/",
+      "destination": "/blog/can-you-use-patio-stones-for-a-driveway/",
+      "permanent": true
+    }
+  ]
+}

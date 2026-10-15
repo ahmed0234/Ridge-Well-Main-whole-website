@@ -85,6 +85,20 @@ These are the fields to change, not the entire config file. Then run `npm run bu
 
 Deploy the **contents of `build/`** to a host that serves `/path/index.html` for `/path/`. Use a real HTTP 404 for missing URLs and serve `404.html`; do not use a homepage or SPA fallback. Existing pages must return 200. `static/_redirects` contains nine old article aliases for hosts supporting that syntax; translate and apply the rules on other hosts. They are not handled by Vite's local preview. Preserve HTTPS, the existing apex domain and one-hop redirects from HTTP and www. Do not apply a catch-all redirect to the homepage.
 
+### Vercel Deployment
+
+A `vercel.json` configuration file is included in the project root:
+- `outputDirectory`: `"build"`
+- `buildCommand`: `"npm run build"`
+- `trailingSlash`: `true` (matches SvelteKit's prerendered `/path/` URL structure)
+- Native 301/308 redirects for all 9 legacy article URLs at the edge
+- `framework`: `null` (sets Framework Preset to "Other", preventing default assumptions like `public/`)
+
+In Vercel Project Settings:
+- **Framework Preset**: Other (or left to `vercel.json`)
+- **Build Command**: `npm run build`
+- **Output Directory**: `build` (or leave override disabled so `vercel.json` takes effect)
+
 Before replacing the original site, compare the current production sitemap with this snapshot and carry over anything published since the review. Back up WordPress and agree on future editing: this is a code-based site, not a WordPress CMS export. Retained URLs and content reduce migration risk but cannot guarantee rankings or ad auction results.
 
 ## Consultation forms and analytics

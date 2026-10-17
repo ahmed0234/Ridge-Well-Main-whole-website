@@ -118,7 +118,7 @@
 <h3>Custom Design Creation</h3>
 
 <p>Francisco and his team create a design based on your input, your property, and the surrounding environment. Every design is unique. No cookie-cutter templates here.</p>
-  
+ 
 
 </div>
 
@@ -220,7 +220,7 @@ Get Started Today
 <span aria-hidden="true" class="chapter-toggle">+</span></summary><div class="chapter-body prose"><details class="faq-item"><summary>How much does landscape design and installation cost in Denver?</summary><div>
 
 
-									Costs vary based on project size, materials, and complexity. Most residential projects range from a few thousand dollars to larger investments for full transformations. We provide detailed estimates after consultation.								
+									Costs vary based on project size, materials, and complexity. Most residential projects range from a few thousand dollars to larger investments for full transformations. We provide detailed estimates after consultation.
 
 </div>
 </details>
@@ -228,7 +228,7 @@ Get Started Today
 <details class="faq-item"><summary>Do I need permits for landscaping in Denver?</summary><div>
 
 
-									Some projects, such as major grading or retaining walls, may require permits. We handle all necessary approvals as part of our service.								
+									Some projects, such as major grading or retaining walls, may require permits. We handle all necessary approvals as part of our service.
 
 </div>
 </details>
@@ -236,7 +236,7 @@ Get Started Today
 <details class="faq-item"><summary>How long does a typical landscaping project take?</summary><div>
 
 
-									Most projects take between two and six weeks, depending on scope, weather, and material availability.								
+									Most projects take between two and six weeks, depending on scope, weather, and material availability.
 
 </div>
 </details>
@@ -244,7 +244,7 @@ Get Started Today
 <details class="faq-item"><summary>Can you create a fully custom landscape design?</summary><div>
 
 
-									Paver patios are often more durable and easier to repair, as individual pieces can be replaced. Concrete is more affordable upfront but may crack over time.								
+									Paver patios are often more durable and easier to repair, as individual pieces can be replaced. Concrete is more affordable upfront but may crack over time.
 
 </div>
 </details>
@@ -252,7 +252,7 @@ Get Started Today
 <details class="faq-item"><summary>Do you install irrigation systems?</summary><div>
 
 
-									Permit requirements depend on the project scope and local regulations. Basic patios may not require permits, but it’s best to confirm with local authorities or your contractor.								
+									Permit requirements depend on the project scope and local regulations. Basic patios may not require permits, but it’s best to confirm with local authorities or your contractor.
 
 </div>
 </details>
@@ -260,52 +260,13 @@ Get Started Today
 <details class="faq-item"><summary>Do you serve Arvada, Aurora, and nearby areas?</summary><div>
 
 
-									Permit requirements depend on the project scope and local regulations. Basic patios may not require permits, but it’s best to confirm with local authorities or your contractor.								
+									Permit requirements depend on the project scope and local regulations. Basic patios may not require permits, but it’s best to confirm with local authorities or your contractor.
 
 </div>
 </details>
 </div>
 </details>
-<details class="plan-chapter" id="project-detail-9"><summary><span class="chapter-count">09</span><h3>Other Related Services</h3>
-<span aria-hidden="true" class="chapter-toggle">+</span></summary><div class="chapter-body prose"><h3>More Ways We Can Transform Your Outdoor Space</h3>
 
-<div class="content-feature">
-<figure><a href="/services/paver-patios/"><img alt="paver and walkway patio" decoding="async" loading="lazy" src="/wp-content/uploads/2026/01/paver-patio-project.webp"/></a></figure><h4><a href="/services/paver-patios/">Flagstone Paver Patio</a></h4>
- </div>
-
-<p class="legacy-link"><a href="/services/paver-patios/">
-
-See Details
-
-</a></p>
-
-<div class="content-feature">
-<figure><img alt="retaining wall" decoding="async" loading="lazy" src="/wp-content/uploads/2026/01/Retaining-Wall.webp"/></figure><h4>Softscape Design &amp; Installation</h4>
- </div>
-
-<p class="legacy-link"><a href="/services/landscape-design/#project-details">
-
-See Details
-
-</a></p>
-
-<div class="content-feature">
-<figure><img alt="pergola installation" decoding="async" loading="lazy" src="/wp-content/uploads/2026/01/Pergola-Installation.webp"/></figure><h4>Hardscapes Builder</h4>
- </div>
-
-<p class="legacy-link"><a href="/services/">
-
-See Details
-
-</a></p>
-
-<p class="legacy-link"><a href="/services/">
-
-Explore All Services
-
-</a></p>
-</div>
-</details>
 </div>
 <aside class="sidebar premium-sidebar"><div class="side-cta"><span class="kicker">YOUR NEXT STEP</span><h3>Let’s look at<br/>what’s possible.</h3>
 <p>Walk the space with our team. Talk through your priorities, the design process and what comes next.</p>

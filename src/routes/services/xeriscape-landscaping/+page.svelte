@@ -262,46 +262,7 @@ Get Started Today
 </details>
 </div>
 </details>
-<details class="plan-chapter" id="project-detail-11"><summary><span class="chapter-count">11</span><h3>Other Related Services</h3>
-<span aria-hidden="true" class="chapter-toggle">+</span></summary><div class="chapter-body prose"><h3>More Ways We Can Transform Your Outdoor Space</h3>
 
-<div class="content-feature">
-<figure><a href="/services/retaining-walls/"><img alt="Retaining wall" decoding="async" loading="lazy" src="/wp-content/uploads/2026/03/Retaining-wall.webp"/></a></figure><h4><a href="/services/retaining-walls/">Retaining Walls</a></h4>
- </div>
-
-<p class="legacy-link"><a href="/services/retaining-walls/">
-
-See Details
-
-</a></p>
-
-<div class="content-feature">
-<figure><a href="/services/landscape-design/"><img alt="landscape architecture" decoding="async" loading="lazy" src="/wp-content/uploads/2026/02/landscape-architecture.webp"/></a></figure><h4><a href="/services/landscape-design/">Landscape Design &amp; Installation</a></h4>
- </div>
-
-<p class="legacy-link"><a href="/services/landscape-design/">
-
-See Details
-
-</a></p>
-
-<div class="content-feature">
-<figure><a href="/services/pergolas/"><img alt="pergola installation" decoding="async" loading="lazy" src="/wp-content/uploads/2026/03/pergola-installation.webp"/></a></figure><h4><a href="/services/pergolas/">Custom Pergola Installation</a></h4>
- </div>
-
-<p class="legacy-link"><a href="/services/pergolas/">
-
-See Details
-
-</a></p>
-
-<p class="legacy-link"><a href="/services/">
-
-Explore All Services
-
-</a></p>
-</div>
-</details>
 </div>
 <aside class="sidebar premium-sidebar"><div class="side-cta"><span class="kicker">YOUR NEXT STEP</span><h3>Let’s look at<br/>what’s possible.</h3>
 <p>Walk the space with our team. Talk through your priorities, the design process and what comes next.</p>

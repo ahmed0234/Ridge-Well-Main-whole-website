@@ -181,7 +181,7 @@
 
 <p>Homeowners looking for a reliable <b>paver patio installation in Brighton</b> trust our team for custom designs and durable construction. We understand local neighborhoods and tailor each project to fit the home’s style and lot layout.</p>
 
-<a href="/service-areas/brighton/paver-patios/">
+<a href="/service-areas/brighton/">
 Get Brighton Patio Installation Service
  </a>
 </div>
@@ -191,7 +191,7 @@ Get Brighton Patio Installation Service
 
 <p>Our <b>paver patio installation Arvada</b> services include walkways, patios, and integrated outdoor living features designed for everyday use and long-term value.</p>
 
-<a href="/service-areas/arvada/paver-patios/">
+<a href="/service-areas/arvada/">
 Get Custom Arvada Patio Design Service
  </a>
 </div>
@@ -201,7 +201,7 @@ Get Custom Arvada Patio Design Service
 
 <p>If you’re searching for professional <b>paver patio installation Aurora CO</b>, we provide the same high standards of workmanship and service. Aurora homeowners benefit from custom layouts, proper drainage solutions, and materials chosen for Colorado conditions.</p>
 
-<a href="/service-areas/aurora/paver-patios/">
+<a href="/service-areas/aurora/">
 Get Aurora Patio Installation Service
  </a>
 </div>
@@ -211,7 +211,7 @@ Get Aurora Patio Installation Service
 
 <p>We also offer <b>paver patio installation Lakewood</b> services for homeowners seeking durable, attractive outdoor upgrades. From backyard patios to front walkways, our team delivers clean, lasting results.</p>
 
-<a href="/service-areas/lakewood/paver-patios/">
+<a href="/service-areas/lakewood/">
 Get Lakewood Patio Installation Service
  </a>
 </div>
@@ -269,46 +269,6 @@ Get Started Today
 <details class="faq-item"><summary>Do you serve Arvada and Aurora?</summary><div><p>Yes. Ridgewell serves Denver, Arvada, Aurora, Brighton, Lakewood and surrounding Denver metro communities.</p>
 </div>
 </details>
-</div>
-</details>
-<details class="plan-chapter" id="project-detail-8"><summary><span class="chapter-count">08</span><h3>Other Related Services</h3>
-<span aria-hidden="true" class="chapter-toggle">+</span></summary><div class="chapter-body prose"><h3>More Ways We Can Transform Your Outdoor Space</h3>
-
-<div class="content-feature">
-<figure><a href="/services/landscape-design/"><img alt="landscape designer &amp; contractor" decoding="async" loading="lazy" src="/wp-content/uploads/2026/01/Landscaping.webp"/></a></figure><h4><a href="/services/landscape-design/">Custom landscaping</a></h4>
- </div>
-
-<p class="legacy-link"><a href="/services/landscape-design/">
-
-See Details
-
-</a></p>
-
-<div class="content-feature">
-<figure><a href="/services/pergolas/"><img alt="pergola installation" decoding="async" loading="lazy" src="/wp-content/uploads/2026/03/pergola-installation.webp"/></a></figure><h4><a href="/services/pergolas/">Pergola Installation</a></h4>
- </div>
-
-<p class="legacy-link"><a href="/services/pergolas/">
-
-See Details
-
-</a></p>
-
-<div class="content-feature">
-<figure><a href="/services/fire-pits-fireplaces/"><img alt="fireplace installation" decoding="async" loading="lazy" src="/wp-content/uploads/2026/02/fireplace.webp"/></a></figure><h4><a href="/services/fire-pits-fireplaces/">Fire pit &amp; Fireplace</a></h4>
- </div>
-
-<p class="legacy-link"><a href="/services/fire-pits-fireplaces/">
-
-See Details
-
-</a></p>
-
-<p class="legacy-link"><a href="/services/">
-
-Explore All Services
-
-</a></p>
 </div>
 </details>
 </div>

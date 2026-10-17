@@ -16,25 +16,25 @@
 <div class="city-service-links"><a href="/services/paver-patios/">Patios &amp; walkways<span>↗</span></a><a href="/services/landscape-design/">Landscape design<span>↗</span></a><a href="/services/outdoor-kitchens/">Outdoor kitchens<span>↗</span></a><a href="/services/retaining-walls/">Retaining walls<span>↗</span></a><a href="/services/fire-pits-fireplaces/">Fire pits &amp; fireplaces<span>↗</span></a><a href="/services/pergolas/">Pergolas<span>↗</span></a><a href="/services/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
 </section>
 <section id="arvada"><span class="kicker">ARVADA, COLORADO</span><h2><a href="/service-areas/arvada/">Your next project in Arvada.</a></h2>
-<div class="city-service-links"><a href="/service-areas/arvada/paver-patios/">Patios &amp; walkways<span>↗</span></a><a href="/service-areas/arvada/landscape-design/">Landscape design<span>↗</span></a><a href="/service-areas/arvada/outdoor-kitchens/">Outdoor kitchens<span>↗</span></a><a href="/service-areas/arvada/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
+<div class="city-service-links"><a href="/services/paver-patios/">Patios &amp; walkways<span>↗</span></a><a href="/services/landscape-design/">Landscape design<span>↗</span></a><a href="/services/outdoor-kitchens/">Outdoor kitchens<span>↗</span></a><a href="/services/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
 </section>
 <section id="aurora"><span class="kicker">AURORA, COLORADO</span><h2><a href="/service-areas/aurora/">Your next project in Aurora.</a></h2>
-<div class="city-service-links"><a href="/service-areas/aurora/paver-patios/">Patios &amp; walkways<span>↗</span></a><a href="/service-areas/aurora/landscape-design/">Landscape design<span>↗</span></a><a href="/service-areas/aurora/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
+<div class="city-service-links"><a href="/services/paver-patios/">Patios &amp; walkways<span>↗</span></a><a href="/services/landscape-design/">Landscape design<span>↗</span></a><a href="/services/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
 </section>
 <section id="brighton"><span class="kicker">BRIGHTON, COLORADO</span><h2><a href="/service-areas/brighton/">Your next project in Brighton.</a></h2>
-<div class="city-service-links"><a href="/service-areas/brighton/paver-patios/">Patios &amp; walkways<span>↗</span></a><a href="/service-areas/brighton/landscape-design/">Landscape design<span>↗</span></a></div>
+<div class="city-service-links"><a href="/services/paver-patios/">Patios &amp; walkways<span>↗</span></a><a href="/services/landscape-design/">Landscape design<span>↗</span></a></div>
 </section>
 <section id="lakewood"><span class="kicker">LAKEWOOD, COLORADO</span><h2><a href="/service-areas/lakewood/">Your next project in Lakewood.</a></h2>
-<div class="city-service-links"><a href="/service-areas/lakewood/paver-patios/">Patios &amp; walkways<span>↗</span></a><a href="/service-areas/lakewood/landscape-design/">Landscape design<span>↗</span></a><a href="/service-areas/lakewood/outdoor-kitchens/">Outdoor kitchens<span>↗</span></a><a href="/service-areas/lakewood/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
+<div class="city-service-links"><a href="/services/paver-patios/">Patios &amp; walkways<span>↗</span></a><a href="/services/landscape-design/">Landscape design<span>↗</span></a><a href="/services/outdoor-kitchens/">Outdoor kitchens<span>↗</span></a><a href="/services/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
 </section>
 <section id="centennial"><span class="kicker">CENTENNIAL, COLORADO</span><h2><a href="/service-areas/centennial/">Your next project in Centennial.</a></h2>
-<div class="city-service-links"><a href="/service-areas/centennial/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
+<div class="city-service-links"><a href="/services/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
 </section>
 <section id="littleton"><span class="kicker">LITTLETON, COLORADO</span><h2><a href="/service-areas/littleton/">Your next project in Littleton.</a></h2>
-<div class="city-service-links"><a href="/service-areas/littleton/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
+<div class="city-service-links"><a href="/services/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
 </section>
 <section id="broomfield"><span class="kicker">BROOMFIELD, COLORADO</span><h2><a href="/service-areas/broomfield/">Your next project in Broomfield.</a></h2>
-<div class="city-service-links"><a href="/service-areas/broomfield/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
+<div class="city-service-links"><a href="/services/xeriscape-landscaping/">Xeriscaping<span>↗</span></a></div>
 </section>
 <section id="parker"><span class="kicker">PARKER, COLORADO</span><h2><a href="/service-areas/parker/">Let’s talk about your Parker property.</a></h2>
 <p>Explore our full range of hardscaping and landscape services, and call to confirm project availability at your address.</p>
